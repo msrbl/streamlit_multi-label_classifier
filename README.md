@@ -8,7 +8,7 @@ Streamlit-приложение для мульти-классовой класс
 
 Модель построена на архитектуре **EfficientNet-B4** и была обучена вручную в Google Colab.
 
-👉 [Открыть Google Colab для обучения модели](https://colab.research.google.com/drive/1ZUZtmMB8S-BT3ZPA6RyxedFZ0F1dSudJ#scrollTo=a7aa6bce)
+👉 [Открыть Google Colab для обучения модели](https://colab.research.google.com/drive/12mxh_56unONITi-L4Z1da67AiRxKZgxq?usp=sharing)
 
 ---
 
@@ -66,7 +66,7 @@ streamlit run app.py
 
 Модель была обучена в среде Google Colab с использованием PyTorch и EfficientNet-B4. Обработка данных, аугментация и сохранение модели были реализованы в интерактивном ноутбуке.
 
-📎 [Посмотреть ноутбук с обучением модели](https://colab.research.google.com/drive/1ZUZtmMB8S-BT3ZPA6RyxedFZ0F1dSudJ#scrollTo=a7aa6bce)
+📎 [Посмотреть ноутбук с обучением модели](https://colab.research.google.com/drive/12mxh_56unONITi-L4Z1da67AiRxKZgxq?usp=sharing)
 
 ---
 
